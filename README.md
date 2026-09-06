@@ -6,15 +6,7 @@
 
 ![status](https://img.shields.io/badge/status-active-brightgreen) ![python](https://img.shields.io/badge/python-3.10%2B-blue) ![gradio](https://img.shields.io/badge/UI-Gradio-orange) ![model](https://img.shields.io/badge/model-Isolation%20Forest-072AC8)
 
----
-
-## 📸 Screenshots
-
-> _Add screenshots here after your first local/HF run:_
-> - `screenshots/analytics_tab.png`
-> - `screenshots/risk_ops_tab.png`
-> - `screenshots/model_performance_tab.png`
-> - `screenshots/live_checker_tab.png`
+--
 
 ---
 
